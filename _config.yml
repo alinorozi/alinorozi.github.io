@@ -22,9 +22,9 @@ repository               : "alinorozi/alinorozi.github.io"
 author:
   # Biographic information
   avatar           : "meg.jpg"
-  name             : "Muhammad Ali Norozi"
+  name             : "Dr. Muhammad Ali Norozi"
   pronouns         : # example: "she/her"  
-  bio              : "Associate Professor at NTNU & Senior Data Scientist at Kiona AS 
+  bio              : "Associate Professor at NTNU & Senior Data Scientist at Kiona AS \n 
                       Email: muhammad.ali.norozi@ntnuno"
   location         : "Trondheim, Norway"
   uri              : # URL
