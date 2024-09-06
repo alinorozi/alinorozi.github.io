@@ -12,7 +12,7 @@ title                    : "Muhammad Ali Norozi"
 title_separator          : "-"
 name                     : &name "Muhammad Ali Norozi"
 description              : &description "personal description"
-url                      : https://alinorozi.github.io"
+url                      : https://alinorozi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "alinorozi/alinorozi.github.io"
 
