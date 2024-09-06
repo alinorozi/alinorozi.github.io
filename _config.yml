@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Muhammad Ali Norozi / Site Title"
+title                    : "Muhammad Ali Norozi"
 title_separator          : "-"
 name                     : &name "Muhammad Ali Norozi"
 description              : &description "personal description"
-url                      : https://alinorozi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://alinorozi.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "alinorozi/alinorozi.github.io"
 
@@ -24,9 +24,9 @@ author:
   avatar           : "meg.png"
   name             : "Muhammad Ali Norozi"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Associate Professor at NTNU & Senior Data Scientist at Kiona AS"
+  location         : "Trondheim, Norway"
+  employer         : "NTNU - Norwegian Univesity of Science and Technology"
   uri              : # URL
   email            : "mohammad.norozi@gmail.com" 
 
