@@ -1,13 +1,24 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Dr. Muhammad Ali Norozi"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am an Associate Professor at [IDI, NTNU](https://www.ntnu.no/idi) and Senior Data Scientist at [Kiona AS](https://kiona.com). I have extensive experience in data engineering and informatics in general and more specifically in data science, data-driven innovation and machine learning and data-engineering.
+
+The research and teaching work is aimed at various branches of computer science and general computer engineering. What the research activities have in common is that they have been aimed at practical applications and real data.
+
+I have also extensive experience as a computer scientist, data engineer and system developer and extensive experience with the use of machine learning (ML) and deep learning-based search solutions, algorithms and models and developing / productionizing them. I have also worked with all three major cloud technologies namely AWS (Loopfront), Azure (Kantega and BankID) and Google Cloud (Evry). Also experience with machine learning programming languages such as Python and R as well as object-oriented languages such as Java and C# .NET. Also have used SQL in a good part of experience.
+
+I have a Ph.D. in information retrieval and computer science from NTNU 2013, an M.Sc in applied mathematics at the Center of Mathematics for Application (CMA) from the University of Oslo 2008 and a B.Sc in computer science and engineering from the National University of Computer and Emerging Sciences also known as FAST in Karachi, Pakistan.
+
+Passionate about deep learning, data analysis, computer science and engineering and programming in general and always looking for the optimal way to do things.
+
+Outgoing, positive and is easy to work with. 
+
 
 A data-driven personal website
 ======
