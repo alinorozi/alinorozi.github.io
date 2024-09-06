@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Dr. Muhammad Ali Norozi"
+title: "Muhammad Ali Norozi"
 author_profile: true
 redirect_from: 
   - /about/
